@@ -20,5 +20,5 @@
 ## TODO
 
 1. would like to add more oprtion feature when the time is permitted
-2. fix the naming conventiong.
+2. fix the naming convention.
 3. more to come!
